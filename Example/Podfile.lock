@@ -1,0 +1,17 @@
+PODS:
+  - MMTestServerPlugin (0.2.0):
+    - SocketRocket (~> 0.2)
+  - SocketRocket (0.4.2)
+
+DEPENDENCIES:
+  - MMTestServerPlugin (from `https://raw.githubusercontent.com/moscich/MMTestServerPlugin/master/MMTestServerPlugin.podspec`)
+
+EXTERNAL SOURCES:
+  MMTestServerPlugin:
+    :podspec: https://raw.githubusercontent.com/moscich/MMTestServerPlugin/master/MMTestServerPlugin.podspec
+
+SPEC CHECKSUMS:
+  MMTestServerPlugin: 53b0b1a2ba69b276c188833e3f4dbaf68b8ebc7f
+  SocketRocket: ffe08119b00ef982f6c37052a4705a057c8494ad
+
+COCOAPODS: 0.38.2

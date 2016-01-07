@@ -1,0 +1,1 @@
+pod "MMTestServerPlugin", :podspec => "https://raw.githubusercontent.com/moscich/MMTestServerPlugin/master/MMTestServerPlugin.podspec"
