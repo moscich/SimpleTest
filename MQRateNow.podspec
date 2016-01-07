@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = "RateNow library"
   s.homepage         = "http://miquido.com"
   s.author           = { "Marek Mościchowski" => "marek.moscichowski@miquido.com" }
-  s.source           = { :http => 'https://public.miquido.com/RateNow.zip' }
+  s.source           = { :http => 'https://raw.githubusercontent.com/moscich/SimpleTest/master/MQRateNow.zip' }
 
   s.platform     = :ios, '8.1'
   s.requires_arc = true
